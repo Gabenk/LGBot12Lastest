@@ -1,0 +1,8 @@
+[general]
+version     = "v.12 Lastest                                         "
+messagenew = "message if you have correct version\nrow1\nrow2"
+messageold = "message if you have old version"
+
+
+[old]
+oldchkvers = "version #v.12 Lastest                                         #"
